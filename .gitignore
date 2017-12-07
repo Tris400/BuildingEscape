@@ -260,9 +260,14 @@ paket-files/
 __pycache__/
 *.pyc
 
-#Unreal Directories that spawn automatically
+
+######################################################
+# Unreal Directories that are generated automatically#
+######################################################
 */Intermediate/
 */Build/
 */Binaries/
 */DerivedDataCache/
 */Saved/
+*BuildingEscape/Content/StarterContent/
+*.VC.db
